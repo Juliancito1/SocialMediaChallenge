@@ -50,7 +50,8 @@ body{
 @media (min-width:992px)
 {
     section{
-        top: 150px;
+        top: 75px;
+        bottom: 150px;
         width: 450px !important;
     }
     
